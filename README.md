@@ -1,1 +1,1 @@
-# Covid-app link(https://covidapp1.netlify.app/)
+# Covid-app(https://covidapp1.netlify.app/)
